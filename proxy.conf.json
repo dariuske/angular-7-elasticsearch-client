@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+        "target": "https://my.api.host",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
